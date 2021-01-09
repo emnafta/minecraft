@@ -1,16 +1,16 @@
-## Welcome to Minecraft Stuff
-Heading
+
+Intro
 =======
-Normal
 
-Heading
-=
+# Welcome to our Minecraft + Python learning page
 
-Heading
-=
+We are using the book called "Adventures in Minecraft", along with their starter kit.
 
-Sub-heading
------------
+
+Projects
+-------
+
+Project 1: [HelloMinecraftWorld.py can be found here](https://github.com/emnafta/minecraft-python/blob/gh-pages/HelloMinecraftWorld.py)
 
 You can use the [editor on GitHub](https://github.com/emnafta/minecraft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
