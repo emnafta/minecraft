@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Minecraft Stuff
+Heading
+=======
+Normal
+
+Heading
+=
+
+Heading
+=
+
+Sub-heading
+-----------
 
 You can use the [editor on GitHub](https://github.com/emnafta/minecraft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
